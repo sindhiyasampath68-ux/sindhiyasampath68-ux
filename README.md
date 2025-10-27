@@ -1,8 +1,8 @@
 
 ## Hi there 👋
-#  I'm **Tamizharasan**
+#  I'm **Sindhiya**
 
-### 🧩 Aspiring RTL & Digital Design and Verification Engineer | Junior VLSI Engineer
+### 🧩 Aspiring Digital Design and Verification Engineer | Junior VLSI Engineer
 
 💡 Passionate about turning logic into silicon reality.  
 Focused on **Front-End VLSI Design** and building reliable, efficient digital systems.
@@ -31,7 +31,7 @@ Focused on **Front-End VLSI Design** and building reliable, efficient digital sy
 ### 🎓 Background
 
 - B.Tech in Electronics & Communication Engineering  
-- Bharat University – **CGPA: 8.09**  
+- Bharat University – **CGPA: 8.31**  
 
 ---
 
@@ -45,8 +45,8 @@ Want to become a VLSI Design Verification Engineer.
 
 ### 🌐 Connect With Me
 
-📩 **Email:** *tamizharasan9150@gmail.com*  
-🔗 **LinkedIn:** *https://www.linkedin.com/in/-tamizh-arasan--/*  
+📩 **Email:** *sindhiyasampath68@gmail.com*  
+🔗 **LinkedIn:** *https://www.linkedin.com/in/sindhiyas-/*  
 📁 **Portfolio:** Coming soon…
 
 ---
